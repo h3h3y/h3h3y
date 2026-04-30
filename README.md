@@ -86,9 +86,9 @@ Berikut adalah beberapa proyek yang telah saya kerjakan:
 
 | Proyek | Deskripsi | Teknologi | Tautan |
 | :--- | :--- | :--- | :--- |
-| **KarkenBMN** | Aplikasi untuk manajemen data Barang Milik Negara dengan fitur pelaporan dan inventarisasi. | Laravel, MySQL, Bootstrap | [🔗 KarkenBMN](https://s.bps.go.id/KarkenBMN) |
-| **Evita** | Sistem informasi untuk evaluasi kinerja dan administrasi internal. | CodeIgniter, jQuery, MySQL | [🔗 Evita](https://s.bps.go.id/Evita) |
-| **TalkVoid** | Platform percakapan anonim sederhana untuk berbagi pemikiran tanpa identitas. | React JS, Vercel, Tailwind CSS | [🔗 talkvoid.vercel.app](https://talkvoid.vercel.app) |
+| **KarkenBMN** | Aplikasi untuk manajemen data Barang Milik Negara dengan fitur pelaporan dan inventarisasi. | CodeIgniter 4, jQuery, MySQL, Bootstrap | [🔗 KarkenBMN](https://s.bps.go.id/KarkenBMN) |
+| **Evita** | Sistem informasi untuk evaluasi kinerja dan administrasi internal. | CodeIgniter 4, jQuery, MySQL, Bootstrap | [🔗 Evita](https://s.bps.go.id/Evita) |
+| **TalkVoid** | Platform percakapan anonim sederhana untuk berbagi pemikiran tanpa identitas. | React JS, Vercel, Tailwind CSS, Laravel | [🔗 talkvoid.vercel.app](https://talkvoid.vercel.app) |
 
 > **Catatan:** Untuk dua proyek pertama (`s.bps.go.id`), tautan bersifat *redirect* yang aman dan akan mengarahkan ke halaman yang benar.
 
