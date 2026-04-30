@@ -22,7 +22,6 @@
 - 💬 Ask me about **Bootstrap, Laravel, CodeIgniter, React JS**
 - 📫 How to reach me: **is4561722@gmail.com**
 - 📄 Know about my experiences: **[My CV Website](https://h3h3y.github.io/cv-iwan.github.io/)**
-- ⚡ Fun fact: **I really like Mobile Games 🎮**
 
 <br/>
 
